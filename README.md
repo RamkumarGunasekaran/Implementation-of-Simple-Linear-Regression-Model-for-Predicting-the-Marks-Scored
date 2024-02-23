@@ -60,13 +60,14 @@ print("RMSE= ",rmse)
 
 ```
 
-## Output:
-![Screenshot 2024-02-23 113616](https://github.com/RamkumarGunasekaran/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870820/78dde68e-fffb-42d8-8c31-706abbb66489)
-![Screenshot 2024-02-23 113801](https://github.com/RamkumarGunasekaran/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870820/3854d5f2-aa78-47b5-a13f-532c0571a8ca)
-![Screenshot 2024-02-23 113838](https://github.com/RamkumarGunasekaran/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870820/923f8313-701f-4cca-8e23-6aa9653d56ec)
-![Screenshot 2024-02-23 113905](https://github.com/RamkumarGunasekaran/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870820/38eeefe0-925e-4b93-b1a6-cfaa35fef2c2)
-![Screenshot 2024-02-23 113933](https://github.com/RamkumarGunasekaran/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870820/6d5e0b6f-8cfb-4be9-8f8d-72d6dac96049)
 
+## Output:
+
+![Screenshot 2024-02-23 113616](https://github.com/RamkumarGunasekaran/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870820/7c8d0f44-399a-4a52-9109-be17c60e642f)
+![Screenshot 2024-02-23 113801](https://github.com/RamkumarGunasekaran/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870820/29810b1e-0781-4338-a6ba-b7b8e2d30316)
+![Screenshot 2024-02-23 113838](https://github.com/RamkumarGunasekaran/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870820/7509ecba-284d-4c04-86a7-2932b5e439af)
+![Screenshot 2024-02-23 113905](https://github.com/RamkumarGunasekaran/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870820/6e3d9021-fbe2-421f-a1bc-2902ccd99ff5)
+![Screenshot 2024-02-23 113933](https://github.com/RamkumarGunasekaran/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870820/6574b4f6-3e55-4ff6-9e1e-35b78c86ec66)
 
 
 
